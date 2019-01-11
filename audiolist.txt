@@ -1,0 +1,2 @@
+file_name	start_time	end_time	output_suffix
+video_in.mp4	01:32.140	01:35.233	clipname_out.mp4
